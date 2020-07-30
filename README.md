@@ -1,45 +1,56 @@
-# Life-in-Tech
+# Life in Tech | Fall 2021
+
+
+### Copyright
+Copyright 2020, Kofi Forson, Kyrhee Powell and Curtis Hite \
+New York City, NY 11413 \
+All Rights Reserved
+
+This is a repository containing course information for Life in Tech. Kofi Forson, Kyrhee Powell and Curtis Hite assert copyright ownership of this repository and all derivative works, including courses and material derived from this course and/or repository. This copyright statement should not be removed or edited.
+
+
+### Description
 A course designed to get students prepared to conquer the job market post-college.
 
 
-Technial 
-1. search/sort
-2. data structures
-    linked lists
-    stack 
-    q
-    heaps
-    trees
-    hashmap
-    graphs
-3. big-O
-4. algorithms
-    tree traversal
-5. approach to answer question
-    break problem down
-    clear ambiguity
-6. recursion
-7. dynamic programming
-8. clean code*
-9. backtracking
-10. leet code/interview cake/ pramp
-11. programming language documentation
-12. testing/code coverage
-13. bit manipulation?
+### Technical 
+ - search/sort
+ - data structures
+    - linked lists
+    - stack 
+    - queue
+    - heaps
+    - trees
+    - hashmap
+    - graphs
+ - big-O
+ - algorithms
+    - tree traversal
+ - approach to answer question
+    - break problem down
+    - clear ambiguity
+ - recursion
+ - dynamic programming
+ - clean code*
+ - backtracking
+ - coding resources: leet code/interview cake/pramp
+ - programming language documentation
+ - testing/code coverage
+ - bit manipulation?
 
 
-Non-Technical
-1. Resume
-2. elevator pitch
-3. cold contacts
-    recruiters
-4. how to apply
-5. navigating conference 
-6. who r u
-7. linkedin
-8. framing answers/storytelling
-9. how to prepare for an interview
-10. interviewing your interviewer
-11. negotiate offers
-12. understand offer
-13. after the interview
+### Non-Technical
+ - Resume
+ - elevator pitch
+ - cold contacts
+    - recruiters
+ - how to apply
+ - navigating conference 
+ - who are you?
+ - linkedin
+ - framing answers/storytelling
+ - how to prepare for an interview
+ - interviewing your interviewer
+ - negotiate offers
+ - understand offer
+ - after the interview
