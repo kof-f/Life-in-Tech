@@ -14,43 +14,56 @@ A course designed to get students prepared to conquer the job market post-colleg
 
 
 ### Technical 
- - search/sort
- - data structures
-    - linked lists
-    - stack 
-    - queue
-    - heaps
-    - trees
-    - hashmap
-    - graphs
- - big-O
- - algorithms
-    - tree traversal
- - approach to answer question
+ - Search/Sort
+    - Binary Search
+    - Merge Sort
+ - Data Structures
+    - Linked Lists
+    - Stack 
+    - Queue
+    - Heaps
+    - Trees
+    - Hashmap
+    - Graphs
+ - Big-O
+ - Algorithms
+    - Tree Traversal
+ - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
+    - time yourself (45 minutes/problem)
     - break problem down
     - clear ambiguity
- - recursion
- - dynamic programming
- - clean code*
- - backtracking
- - coding resources: leet code/interview cake/pramp
- - programming language documentation
- - testing/code coverage
- - bit manipulation?
+ - Recursion
+ - Dynamic Programming
+ - Clean Code*
+ - Backtracking
+ - Coding resources: 
+    - [LeetCode](www.leetcode.com): coding challenges and interview experience forums
+    - [Interview Cake](www.interviewcake.com): data structures and algorithms interview prep
+    - [Pramp](www.pramp.com): peer to peer interview platform
+ - Programming Language Documentation
+ - Testing/Code Coverage
+ - Bit Manipulation
 
 
 ### Non-Technical
  - Resume
- - elevator pitch
- - cold contacts
-    - recruiters
- - how to apply
- - navigating conference 
- - who are you?
- - linkedin
- - framing answers/storytelling
- - how to prepare for an interview
- - interviewing your interviewer
- - negotiate offers
- - understand offer
- - after the interview
+ - Elevator pitch
+ - Cold contacts
+    - Recruiters
+ - How to apply
+ - Navigating a conference 
+ - Who are you?
+ - Leveraging LinkedIn
+ - Framing answers/Storytelling
+ - How to prepare for an interview
+ - Interviewing your interviewer
+ - Negotiating offers
+ - Understand an offer letter
+ - After the interview
+ - Researching a Company
+
+
+ ### Resources
+ - Cracking the Coding Interview (include PDF in resources folder)
+ - [Explain the Cloud Like I'm 10](https://www.amazon.com/Explain-Cloud-Like-Im-10/dp/0979707110/ref=sr_1_2?crid=3O9YEUVIEQEZS&dchild=1&keywords=explain+the+cloud+like+i%27m+10&qid=1596194608&sprefix=explain+the+cloud%2Caps%2C171&sr=8-2)
+ - [Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417)
