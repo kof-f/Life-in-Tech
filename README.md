@@ -65,6 +65,7 @@ A course designed to get students prepared to conquer the job market post-colleg
  - Understand an offer letter
  - After the interview
  - Researching a Company
+    - Company culture
 
 
  ### Resources
