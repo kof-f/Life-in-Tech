@@ -43,6 +43,9 @@ A course designed to get students prepared to conquer the job market post-colleg
  - Programming Language Documentation
  - Testing/Code Coverage
  - Bit Manipulation
+ - Threads & Locks
+ - Object-Oriented Design
+ - [System Design and Scalability](https://github.com/donnemartin/system-design-primer)
 
 
 ### Non-Technical
@@ -54,6 +57,7 @@ A course designed to get students prepared to conquer the job market post-colleg
  - Navigating a conference 
  - Who are you?
  - Leveraging LinkedIn
+    - Searching by content
  - Framing answers/Storytelling
  - How to prepare for an interview
  - Interviewing your interviewer
