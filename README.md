@@ -6,7 +6,7 @@ Copyright 2020, Kofi Forson, Kyrhee Powell and Curtis Hite \
 New York City, NY 11413 \
 All Rights Reserved
 
-This is a repository containing course information for Life in Tech. Kofi Forson, Kyrhee Powell and Curtis Hite assert copyright ownership of this repository and all derivative works, including courses and material derived from this course and/or repository. This copyright statement should not be removed or edited.
+This is a repository containing course information for Life in Tech. Kofi Forson, Kyrhee Powell and Curtis Hite Jr. assert copyright ownership of this repository and all derivative works, including courses and material derived from this course and/or repository. This copyright statement should not be removed or edited.
 
 
 ### Description
