@@ -1,4 +1,4 @@
-### Recusrion
+### Dynamic Programming
 
 - Topics
 	- Teach after recursion
