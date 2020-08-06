@@ -145,11 +145,74 @@ A course designed to get students prepared to conquer the job market.
    - Situation, Task, Action and Result
    - Metrics
    - Show one of our resumes
+- LinkedIn Profile
+   - Headline (what you do/what you want to do)
+   - Bio
+   - Job/volunteer experience
+   - Education
+   - Media
+   - Skills (related to jobs that you're looking for)
+      - copy skills from job posts
 - Elevator pitch
+   - Who are you?
    - Be concise
    - Use resume as a guide
    - Give my elevator pitch as an example
    - Look at AKB elevator pitch resource on site
+ - Cold contacts (recruiters)
+   - Template for LinkedIn and email
+   - Builds LinkedIn network (make sure to try to connect)
+   - Show examples of cold contacts in my LinkedIn DMs
+ - How to apply
+   - University careers section
+   - Search by content (could be a filter for programming language too)
+   - Follow up with cold contact to recruiter
+   - Leverage alumni network if they're at the company
+   - How to maximize chances of application being seen
+     - Buzzwords on Resume/LinkedIn
+     - Skills on LinkedIn profile
+   - Go through exercise searching for job openings on LinkedIn and explain how I would apply to the job
+ - Navigating a conference
+   - Conference travel scholarships
+   - Have several resume copies in hand
+   - Dress professional but also comfortable (a lot of walking/standing)
+   - Know your elevator pitch/who you are statement
+   - Research the companies that are at the conference
+   - Ask what the company is hiring for
+   - Connect with as many recruiters as possible on LinkedIn and stay up-to-date with posts
+   - Example: Research NSBE conference and its career fair documentation
+ - Leveraging LinkedIn
+   - Make posts and enagage with other posts (like, comment, share)
+   - LinkedIn Learning
+   - Udemy, Udacity, coursera (online learning certificates)
+   - LinkedIn Assessments (skill badges)
+   - LinkedIn premium (see who viewed your profile and message credits)
+ - Framing answers/Storytelling
+   - How do you articulate your answers properly?
+   - Turn the interview into a conversation
+   - Situation, Task, Action and Result (always show value)
+   - Beginning, middle, end (tell an actual story)
+   - Always end on a positive note regardless of the question
+   - Go through an example behavioral interview question
+   - Ask a random person a behavioral interview question
+ - What the interview process looks like?
+   - Initial convo with HR
+   - Phone screen (could be technical)
+   - Take home assessment (due in a couple of days/weeks)
+   - On-site (multiple rounds of interviews technical and behavioral)
+   - Offer
+ - Interviewing your interviewer
+   - Ask about company culture
+   - Ask about day in the life of position
+   - Ask about management style
+   - Ask about why the interviewer is at the company and not somewhere else
+   - Ask about promotion opportunities
+
+
+   
+     
+
+
 
 
 
