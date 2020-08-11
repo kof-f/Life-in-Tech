@@ -111,11 +111,11 @@ A course designed to get students prepared to conquer the job market.
     - Time/space tradeoff
     - When not to worry about Big O
     - Give real world examples of how an industry algorithm was improved and its Big O runtime and/or memory
- - Recursion*
+ - Week 12: Recursion*
     - Base case
     - Conditional logic
     - How to approach recursion? SKIP!
- - [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+ - Week 13: [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
     - Teach after recursion
     - Backtracking/storing data to be used later
     - Shortest path
@@ -127,19 +127,20 @@ A course designed to get students prepared to conquer the job market.
    - Formatting (indentation, line spacing, etc)
    - Error handling
    - An example of clean code vs. spaghetti code
- - Backtracking*
- - Testing/Code Coverage
+ - Week 14: Backtracking*
+ - Week 11: Testing/Code Coverage
    - Unit tests
    - [Test plans](https://www.youtube.com/watch?v=QEu3wmgTLqo&t=4s)
    - End-to-end testing (going through workflow process)
    - Performance testing
- - Threads & Locks (CTCI section is sufficient)
- - Object-Oriented Design
+ - Week 15: Threads & Locks (CTCI section is sufficient)
+ - Week 10: Object-Oriented Design
+   - Could teach clean code during this week as well
    - Ask Rasamny for his slides
 
 
 ### Deep Dive: Non-Technical
-- Resume
+- Week 1: Resume
    - Template
    - Formatting
    - Layout 
@@ -147,7 +148,8 @@ A course designed to get students prepared to conquer the job market.
    - Situation, Task, Action and Result
    - Metrics
    - Show one of our resumes
-- LinkedIn Profile
+- Week 3: LinkedIn Profile
+   - Use elevator pitch in headline
    - Headline (what you do/what you want to do)
    - Bio
    - Job/volunteer experience
@@ -155,17 +157,17 @@ A course designed to get students prepared to conquer the job market.
    - Media
    - Skills (related to jobs that you're looking for)
       - copy skills from job posts
-- Elevator pitch
+- Week 2: Elevator pitch
    - Who are you?
    - Be concise
    - Use resume as a guide
    - Give my elevator pitch as an example
    - Look at AKB elevator pitch resource on site
- - Cold contacts (recruiters)
+ - Week 5: Cold contacts (recruiters)
    - Template for LinkedIn and email
    - Builds LinkedIn network (make sure to try to connect)
    - Show examples of cold contacts in my LinkedIn DMs
- - How to apply
+ - Week 6: How to apply
    - Research the company culture
       - Go to company website and their careers page should have a section dedicated to culture
       - Visit company LinkedIn profile
@@ -180,7 +182,7 @@ A course designed to get students prepared to conquer the job market.
      - Buzzwords on Resume/LinkedIn
      - Skills on LinkedIn profile
    - Go through exercise searching for job openings on LinkedIn and explain how I would apply to the job
- - Navigating a conference
+ - Week 11: Navigating a conference
    - Conference travel scholarships
    - Have several resume copies in hand
    - Dress professional but also comfortable (a lot of walking/standing)
@@ -189,13 +191,13 @@ A course designed to get students prepared to conquer the job market.
    - Ask what the company is hiring for
    - Connect with as many recruiters as possible on LinkedIn and stay up-to-date with posts
    - Example: Research NSBE conference and its career fair documentation
- - Leveraging LinkedIn
+ - Week 4: Leveraging LinkedIn
    - Make posts and enagage with other posts (like, comment, share)
    - LinkedIn Learning
    - Udemy, Udacity, coursera (online learning certificates)
    - LinkedIn Assessments (skill badges)
    - LinkedIn premium (see who viewed your profile and message credits)
- - Framing answers/Storytelling
+ - Week 8: Framing answers/Storytelling
    - How do you articulate your answers properly?
    - Turn the interview into a conversation
    - Situation, Task, Action and Result (always show value)
@@ -203,13 +205,13 @@ A course designed to get students prepared to conquer the job market.
    - Always end on a positive note regardless of the question
    - Go through an example behavioral interview question
    - Ask a random person a behavioral interview question
- - What the interview process looks like?
+ - Week 7: What the interview process looks like?
    - Initial convo with HR
    - Phone screen (could be technical)
    - Take home assessment (due in a couple of days/weeks)
    - On-site (multiple rounds of interviews technical and behavioral)
    - Offer
- - Interviewing your interviewer
+ - Week 9: Interviewing your interviewer
    - Ask about company culture
    - Ask about day in the life of position
    - Ask about management style
@@ -219,12 +221,14 @@ A course designed to get students prepared to conquer the job market.
    - Is there anything about my resume or anything I mentioned that may make you feel like I'm not a good fit for this position?
    - Ask for their contact info (email, LinkedIn)
    - Ask what the rest of the interview process looks like
- - [Negotiating an offer](https://candor.co/guides/salary-negotiation)
+   - Post Interview
+      - Send a thank you email to your interviewer and recruiter
+ - Week 10: [Negotiating an offer](https://candor.co/guides/salary-negotiation)
    - Know your market value (use levels.fyi)
    - Always good to have multiple offers for leverage
    - Never make the first offer
    - Always say a range
- - Understanding your offer  
+ - Week 10: Understanding your offer  
    - Understand the difference between offers in big tech vs. government vs. startups
    - Salary
    - Stock bonus
@@ -238,8 +242,7 @@ A course designed to get students prepared to conquer the job market.
       - Tuition assistance
       - Student loan refinance
       - Education allowance
- - Post Interview
-   - Send a thank you email to your interviewer and recruiter
+
    
 
 
