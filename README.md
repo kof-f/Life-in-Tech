@@ -75,40 +75,42 @@ A course designed to get students prepared to conquer the job market.
 
 
 ### Deep Dive: Technical
- - Intro
+ - Week 1: Intro
    - Syllabus
    - When to use a language?
       - Use the easiest language to solve a problem
    - Programming Language Documentation
- - [Search](https://www.geeksforgeeks.org/searching-algorithms/)/[Sort](https://www.geeksforgeeks.org/sorting-algorithms/)
+   - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
+      - time yourself (45 minutes/problem)
+      - break problem down
+      - clear ambiguity
+      - reviewing code (edge cases)
+      - Go through real world problem that is not related to coding
+      - Write the steps down as student goes through their approach
+   - Have students write pseudo code for practice problem
+ - Week 2: [Search](https://www.geeksforgeeks.org/searching-algorithms/)/[Sort](https://www.geeksforgeeks.org/sorting-algorithms/)
     - Binary Search
     - Merge Sort
     - Selection Sort
     - Teach the behaviors and tradeoffs
+    - Transition into Big O
  - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
-    - Linked Lists
-    - Stack 
-    - Queue
-    - Heaps
-    - Trees: autocorrect/filling text (prefix tree)
+    - Week 4: Lists/Stack/Queue
+    - Week 5: Linked Lists
+    - Week 9: Heaps
+    - Week 8: Trees: autocorrect/filling text (prefix tree)
         - Tree traversal
-    - Hashmap
-    - Graphs
+    - Week 6: Hashmap
+    - Week 7: Graphs
+      - Transition into Trees
     - Give concrete examples on why to use certain data structures
     - Give real world examples of how data structures are used in industry
     - Each data structure will probably be its own lesson
- - [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+ - Week 3: [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
     - Intro to Big O (runtime and memory)
     - Time/space tradeoff
     - When not to worry about Big O
     - Give real world examples of how an industry algorithm was improved and its Big O runtime and/or memory
- - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
-    - time yourself (45 minutes/problem)
-    - break problem down
-    - clear ambiguity
-    - reviewing code (edge cases)
-    - Go through real world problem that is not related to coding
-    - Write the steps down as student goes through their approach
  - Recursion*
     - Base case
     - Conditional logic
@@ -164,6 +166,12 @@ A course designed to get students prepared to conquer the job market.
    - Builds LinkedIn network (make sure to try to connect)
    - Show examples of cold contacts in my LinkedIn DMs
  - How to apply
+   - Research the company culture
+      - Go to company website and their careers page should have a section dedicated to culture
+      - Visit company LinkedIn profile
+      - Talk to alumni currently working at company
+      - Connect with people on LinkedIn that work at the company
+      - Attend company events, if possible
    - University careers section
    - Search by content (could be a filter for programming language too)
    - Follow up with cold contact to recruiter
@@ -207,6 +215,32 @@ A course designed to get students prepared to conquer the job market.
    - Ask about management style
    - Ask about why the interviewer is at the company and not somewhere else
    - Ask about promotion opportunities
+   - Ask about how the interviewer has impacted the team (culture, process, etc.)
+   - Is there anything about my resume or anything I mentioned that may make you feel like I'm not a good fit for this position?
+   - Ask for their contact info (email, LinkedIn)
+   - Ask what the rest of the interview process looks like
+ - [Negotiating an offer](https://candor.co/guides/salary-negotiation)
+   - Know your market value (use levels.fyi)
+   - Always good to have multiple offers for leverage
+   - Never make the first offer
+   - Always say a range
+ - Understanding your offer  
+   - Understand the difference between offers in big tech vs. government vs. startups
+   - Salary
+   - Stock bonus
+   - Signing bonus
+   - Benefits
+      - Health, vision, dental insurance
+      - Gym reimbursement
+      - Company discounts
+      - Travel reimbursement
+      - Relocation
+      - Tuition assistance
+      - Student loan refinance
+      - Education allowance
+ - Post Interview
+   - Send a thank you email to your interviewer and recruiter
+   
 
 
    
