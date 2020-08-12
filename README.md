@@ -76,6 +76,7 @@ A course designed to get students prepared to conquer the job market.
 
 ### Deep Dive: Technical
  - Week 1: Intro
+   - Intro professors
    - Syllabus
    - When to use a language?
       - Use the easiest language to solve a problem
@@ -140,7 +141,8 @@ A course designed to get students prepared to conquer the job market.
 
 
 ### Deep Dive: Non-Technical
-- Week 1: Resume
+- Week 1: Intro/Resume
+   - Intro professors
    - Template
    - Formatting
    - Layout 
@@ -242,6 +244,7 @@ A course designed to get students prepared to conquer the job market.
       - Tuition assistance
       - Student loan refinance
       - Education allowance
+- Week 12-15: Guest Speaker
 
    
 
