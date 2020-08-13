@@ -95,23 +95,38 @@ A course designed to get students prepared to conquer the job market.
     - Selection Sort
     - Teach the behaviors and tradeoffs
     - Transition into Big O
- - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
-    - Week 4: Lists/Stack/Queue
-    - Week 5: Linked Lists
-    - Week 9: Heaps
-    - Week 8: Trees: autocorrect/filling text (prefix tree)
-        - Tree traversal
-    - Week 6: Hashmap
-    - Week 7: Graphs
-      - Transition into Trees
-    - Give concrete examples on why to use certain data structures
-    - Give real world examples of how data structures are used in industry
-    - Each data structure will probably be its own lesson
  - Week 3: [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
     - Intro to Big O (runtime and memory)
     - Time/space tradeoff
     - When not to worry about Big O
     - Give real world examples of how an industry algorithm was improved and its Big O runtime and/or memory
+ - Week 4-9: [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+    - Week 4: Lists/Stack/Queue
+    - Week 5: Linked Lists
+    - Week 6: Hashmap
+    - Week 7: Graphs
+      - Transition into Trees
+    - Week 8: Trees: autocorrect/filling text (prefix tree)
+        - Tree traversal
+    - Week 9: Heaps
+    - Give concrete examples on why to use certain data structures
+    - Give real world examples of how data structures are used in industry
+    - Each data structure will probably be its own lesson
+  - Week 10: Object-Oriented Design
+    - Could teach clean code during this week as well
+    - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+      - Naming
+      - Functions
+      - Comments
+      - Formatting (indentation, line spacing, etc)
+      - Error handling
+      - An example of clean code vs. spaghetti code
+    - Ask Rasamny for his slides
+  - Week 11: Testing/Code Coverage
+    - Unit tests
+    - [Test plans](https://www.youtube.com/watch?v=QEu3wmgTLqo&t=4s)
+    - End-to-end testing (going through workflow process)
+    - Performance testing
  - Week 12: Recursion*
     - Base case
     - Conditional logic
@@ -121,23 +136,8 @@ A course designed to get students prepared to conquer the job market.
     - Backtracking/storing data to be used later
     - Shortest path
     - Find a solution and store it for later
- - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-   - Naming
-   - Functions
-   - Comments
-   - Formatting (indentation, line spacing, etc)
-   - Error handling
-   - An example of clean code vs. spaghetti code
- - Week 14: Backtracking*
- - Week 11: Testing/Code Coverage
-   - Unit tests
-   - [Test plans](https://www.youtube.com/watch?v=QEu3wmgTLqo&t=4s)
-   - End-to-end testing (going through workflow process)
-   - Performance testing
+ - Week 14: Backtracking
  - Week 15: Threads & Locks (CTCI section is sufficient)
- - Week 10: Object-Oriented Design
-   - Could teach clean code during this week as well
-   - Ask Rasamny for his slides
 
 
 ### Deep Dive: Non-Technical
@@ -150,6 +150,12 @@ A course designed to get students prepared to conquer the job market.
    - Situation, Task, Action and Result
    - Metrics
    - Show one of our resumes
+- Week 2: Elevator pitch
+   - Who are you?
+   - Be concise
+   - Use resume as a guide
+   - Give my elevator pitch as an example
+   - Look at AKB elevator pitch resource on site
 - Week 3: LinkedIn Profile
    - Use elevator pitch in headline
    - Headline (what you do/what you want to do)
@@ -159,12 +165,12 @@ A course designed to get students prepared to conquer the job market.
    - Media
    - Skills (related to jobs that you're looking for)
       - copy skills from job posts
-- Week 2: Elevator pitch
-   - Who are you?
-   - Be concise
-   - Use resume as a guide
-   - Give my elevator pitch as an example
-   - Look at AKB elevator pitch resource on site
+ - Week 4: Leveraging LinkedIn
+   - Make posts and enagage with other posts (like, comment, share)
+   - LinkedIn Learning
+   - Udemy, Udacity, coursera (online learning certificates)
+   - LinkedIn Assessments (skill badges)
+   - LinkedIn premium (see who viewed your profile and message credits)
  - Week 5: Cold contacts (recruiters)
    - Template for LinkedIn and email
    - Builds LinkedIn network (make sure to try to connect)
@@ -184,21 +190,12 @@ A course designed to get students prepared to conquer the job market.
      - Buzzwords on Resume/LinkedIn
      - Skills on LinkedIn profile
    - Go through exercise searching for job openings on LinkedIn and explain how I would apply to the job
- - Week 11: Navigating a conference
-   - Conference travel scholarships
-   - Have several resume copies in hand
-   - Dress professional but also comfortable (a lot of walking/standing)
-   - Know your elevator pitch/who you are statement
-   - Research the companies that are at the conference
-   - Ask what the company is hiring for
-   - Connect with as many recruiters as possible on LinkedIn and stay up-to-date with posts
-   - Example: Research NSBE conference and its career fair documentation
- - Week 4: Leveraging LinkedIn
-   - Make posts and enagage with other posts (like, comment, share)
-   - LinkedIn Learning
-   - Udemy, Udacity, coursera (online learning certificates)
-   - LinkedIn Assessments (skill badges)
-   - LinkedIn premium (see who viewed your profile and message credits)
+ - Week 7: What the interview process looks like?
+   - Initial convo with HR
+   - Phone screen (could be technical)
+   - Take home assessment (due in a couple of days/weeks)
+   - On-site (multiple rounds of interviews technical and behavioral)
+   - Offer
  - Week 8: Framing answers/Storytelling
    - How do you articulate your answers properly?
    - Turn the interview into a conversation
@@ -207,12 +204,6 @@ A course designed to get students prepared to conquer the job market.
    - Always end on a positive note regardless of the question
    - Go through an example behavioral interview question
    - Ask a random person a behavioral interview question
- - Week 7: What the interview process looks like?
-   - Initial convo with HR
-   - Phone screen (could be technical)
-   - Take home assessment (due in a couple of days/weeks)
-   - On-site (multiple rounds of interviews technical and behavioral)
-   - Offer
  - Week 9: Interviewing your interviewer
    - Ask about company culture
    - Ask about day in the life of position
@@ -244,7 +235,16 @@ A course designed to get students prepared to conquer the job market.
       - Tuition assistance
       - Student loan refinance
       - Education allowance
-- Week 12-15: Guest Speaker
+ - Week 11: Navigating a conference
+   - Conference travel scholarships
+   - Have several resume copies in hand
+   - Dress professional but also comfortable (a lot of walking/standing)
+   - Know your elevator pitch/who you are statement
+   - Research the companies that are at the conference
+   - Ask what the company is hiring for
+   - Connect with as many recruiters as possible on LinkedIn and stay up-to-date with posts
+   - Example: Research NSBE conference and its career fair documentation
+ - Week 12-15: Guest Speaker
 
    
 

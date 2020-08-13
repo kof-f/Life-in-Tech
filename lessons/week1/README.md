@@ -19,11 +19,29 @@ At the end of this lesson students should be able to:
 
 
  ### Introduction: Kyrhee "Kire" Powell
- I work at Apple. I think I'm so cool.
+ __What are some words that I live by?__
+
+
+__Where do I work and what do I do?__
+
+
+__Why am I teaching this course?__
+
+
+__What's one thing I would've told myself in college?__
 
 
  ### Introduction: Curtis Hite Jr.
- I work at a startup that was acquired from IBM. I know I'm cool.
+ __What are some words that I live by?__
+
+
+__Where do I work and what do I do?__
+
+
+__Why am I teaching this course?__
+
+
+__What's one thing I would've told myself in college?__
 
 
  ### Problem Solving Approach
