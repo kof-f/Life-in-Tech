@@ -44,6 +44,9 @@ __Why am I teaching this course?__
 __What's one thing I would've told myself in college?__
 
 
+ ### Scenario
+ Your friend texts you, "I need your help moving." What do you do? How do you solve this problem?
+ 
  ### Problem Solving Approach
  1. Repeat the question in your own words
  2. Check assumptions
