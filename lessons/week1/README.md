@@ -19,7 +19,7 @@ At the end of this lesson students should be able to:
 
 
  ### Introduction: Kyrhee "Kire" Powell
- __What are some words that I live by?__
+__What are some words that I live by?__
 
 
 __Where do I work and what do I do?__
@@ -44,6 +44,14 @@ __Why am I teaching this course?__
 __What's one thing I would've told myself in college?__
 
 
+### Syllabus
+ Link syllabus here
+
+
+ ### Scenario
+ Your friend texts you, "I need your help moving." What do you do? How do you solve this problem?
+ 
+
  ### Problem Solving Approach
  1. Repeat the question in your own words
  2. Check assumptions
@@ -54,10 +62,16 @@ __What's one thing I would've told myself in college?__
 
 
  ### Programming Language Documentation
- Go through documentation example?
+ Make sure you know all aspects of the code you write including built-in libraries and functions.
+ - [Python documentation](https://docs.python.org/3/)
+ - [Java documentation](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+ - [Swift documentation](https://docs.swift.org/)
+
+
+ ### Homework Assignment
+ Write pseudo code to help your friend move. Pseudo code is an informal, high-level, rough draft of your proposed solution.
 
    
-
 
    
      
