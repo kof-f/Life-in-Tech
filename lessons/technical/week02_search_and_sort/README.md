@@ -61,7 +61,7 @@ Paste implementation here.
 Compare insertion sort to merge sort using Big O time/space complexity. Make sure to emphasize that selection sort isn't commonly used in technical problems.
 
  ### Big O
- __What is Big O?__
+ __What is Big O?__ \
 Big O notation is the language we use for talking about how long an algorithm takes to run and how much memory it uses in the process. It's how we compare the efficiency of different approaches to a problem.
 
  ### Homework Assignment
@@ -69,26 +69,29 @@ Big O notation is the language we use for talking about how long an algorithm ta
 - Integers in each row are sorted from left to right.
 - The first integer of each row is greater than the last integer of the previous row.
 
-__Example 1__: \
-Input: \
-matrix = [ \
- 	[1,   3,  5,  7], \
-  	[10, 11, 16, 20], \
-  	[23, 30, 34, 50] \
+__Example 1__:
+```python
+# Input:
+matrix = [
+  [1,  3,   5,  7],
+  [10, 11, 16, 20],
+  [23, 30, 34, 50]
 ]
 target = 3
-Output: true
+# The output should be True because 3 is in the first row of the 2D matrix.
+```
 
 __Example 2__:
-Input:
-matrix = [ \
-  [1,   3,  5,  7], \
-  [10, 11, 16, 20], \
-  [23, 30, 34, 50] \
-] \
-target = 13 \
-Output: false
- 
+```python
+# Input:
+matrix = [
+  [1,  3,   5,  7],
+  [10, 11, 16, 20],
+  [23, 30, 34, 50]
+]
+target = 13
+# The output should be False because 13 is not present in the 2D matrix.
+```
  Solve the question and write the Big O space and time complexity of your solution.
 
 ### Resources
