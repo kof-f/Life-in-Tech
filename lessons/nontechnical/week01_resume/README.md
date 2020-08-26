@@ -1,13 +1,4 @@
-### Resumé
-
-- Topics
-	- Template
-   	- Formatting
-   	- Layout 
-   	- Autofill applications
-   	- Situation, Task, Action and Result
-   	- Metrics
-
+# Week 1: Non-Technical | Resumé
 
 ### Copyright
 Copyright 2020, Kofi Forson, Kyrhee Powell and Curtis Hite \
@@ -61,7 +52,6 @@ Your template should have the following sections, but they do not need to be in 
 - Interesting facts (optional)
 
 
-
 ### Tips for choosing a good template
 - Choose templates you can download to Word. Stay away from online resumé builders.
 - Stay away from templates with pictures (pictures add more bias to the application process)
@@ -97,8 +87,6 @@ Use the STAR method to organize your thoughts about what you did for a specific 
 
 ### Demo: Editing your resumé template
 Here's a couple of things we've learned about how Microsoft Word can help with editing your resumé template.
-
-
 
 
  ### Homework Assignment

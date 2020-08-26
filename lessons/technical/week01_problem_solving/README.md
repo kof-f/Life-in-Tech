@@ -1,4 +1,4 @@
-# Introduction: Technical | Problem Solving Approach
+# Week 1: Technical | Problem Solving Approach
 
 
 ### Copyright
