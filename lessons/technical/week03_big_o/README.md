@@ -1,4 +1,4 @@
-# Big O
+# Week 3: Technical | Big O 
 
 ### Copyright
 Copyright 2020, Kofi Forson, Kyrhee Powell and Curtis Hite \
@@ -15,13 +15,11 @@ At the end of this lesson students should be able to:
 - Understand time/space tradeoff
 
 ### Understanding Big O
-- Big O describes the rate of growth for an algorithm in time or space depending on the input size
+Big O describes the rate of growth for an algorithm in time or space depending on the input size.
 
-- Time Complexity
-	- Runtime of an algorithm
-
-- Space Complexity
-	- Memory required for an algorithm
+There are two types of Big O complexities:
+- Time Complexity: runtime of an algorithm
+- Space Complexity: memory required for an algorithm
 
 
 ### Analyze Solutions
@@ -55,41 +53,43 @@ At the end of this lesson students should be able to:
 		- O(A * B)
 
 #### Examples using an algorithm
-EX 1
-		int sum = 0;
-		int product = 1;
-		for (int i = 0; i < array.length; i++) {
-			sum += array[i];
-		}
-		for (int i = 0; i < array.length; i++) {
-			product *= array[i];
-		}
-		System.out.println(sum + "," + product);
+__Example 1:__
+``` java
+int sum = 0;
+int product = 1;
+for (int i = 0; i < array.length; i++) {
+	sum += array[i];
+}
+for (int i = 0; i < array.length; i++) {
+	product *= array[i];
+}
+System.out.println(sum + "," + product);
+```
+__Example 2:__
+```python
+def binary_search(arr, x): 
+	low = 0
+	high = len(arr) - 1
+	mid = 0
+		
+	while low <= high: 
 
-EX 2
-	def binary_search(arr, x): 
-		low = 0
-		high = len(arr) - 1
-		mid = 0
-			
-		while low <= high: 
+		mid = (high + low) // 2
+	# Check if x is present at mid 
+	if arr[mid] < x: 
+		low = mid + 1
 
-			mid = (high + low) // 2
-		# Check if x is present at mid 
-		if arr[mid] < x: 
-		    low = mid + 1
+	# If x is greater, ignore left half 
+	elif arr[mid] > x: 
+		high = mid - 1
 
-		# If x is greater, ignore left half 
-		elif arr[mid] > x: 
-		    high = mid - 1
+	# If x is smaller, ignore right half 
+	else: 
+		return mid 
 
-		# If x is smaller, ignore right half 
-		else: 
-		    return mid 
-
-		# If we reach here, then the element was not present 
-		return -1
-
+	# If we reach here, then the element was not present 
+	return -1
+```
 
 
 
@@ -102,27 +102,27 @@ EX 2
 Find the run times for the following problems
 
 1. 
-
-	int mod(int a, int b) { 
-		if (b <= 0) {
-			return -1;
-		}
-		int div = a / b;
-		return a - div * b;
+```java
+int mod(int a, int b) { 
+	if (b <= 0) {
+		return -1;
 	}
+	int div = a / b;
+	return a - div * b;
+}
+```
 
 2. 
-	
-	int sumDigits(int n) { 
-		int sum = 0;
-		while (n > 0) { 
-			sum += n % 10;
-			n /= 10; 
-		}
-		return sum;
+```java
+int sumDigits(int n) { 
+	int sum = 0;
+	while (n > 0) { 
+		sum += n % 10;
+		n /= 10; 
 	}
-
-
+	return sum;
+}
+```
 
 ### Resources
-- https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+- [Big O Analysis](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
