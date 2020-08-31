@@ -56,15 +56,15 @@ At the end of this lesson students should be able to:
 
 #### Examples using an algorithm
 EX 1
-	int sum = 0;
-	int product = 1;
-	for (int i = 0; i < array.length; i++) {
-		sum += array[i];
-	}
-	for (int i = 0; i < array.length; i++) {
-		product *= array[i];
-	}
-	System.out.println(sum + "," + product);
+		int sum = 0;
+		int product = 1;
+		for (int i = 0; i < array.length; i++) {
+			sum += array[i];
+		}
+		for (int i = 0; i < array.length; i++) {
+			product *= array[i];
+		}
+		System.out.println(sum + "," + product);
 
 EX 2
 	def binary_search(arr, x): 
@@ -100,7 +100,9 @@ EX 2
 
 ### Homework
 Find the run times for the following problems
+
 1. 
+
 	int mod(int a, int b) { 
 		if (b <= 0) {
 			return -1;
@@ -110,6 +112,7 @@ Find the run times for the following problems
 	}
 
 2. 
+	
 	int sumDigits(int n) { 
 		int sum = 0;
 		while (n > 0) { 
