@@ -22,6 +22,8 @@ An elevator pitch, elevator speech, or elevator statement is a short description
 #### Why?
 An elevator pitch is a quick, effective way for you to introduce yourself to someone outside of your network. It is extremely useful to know your elevator pitch for conferences, resumés, and interviews.
 
+An elevator pitch is a great answer to the, "Tell me about yourself," question.
+
 ### Formulating an elevator pitch
 Before creating your elevator pitch you need to determine what your desired outcome is. What would you like to happen after delivering your pitch? Do you want to secure funding for your idea? Do you want to secure a meeting? Do you want a job? You need to know what you want in order to deliver an effective elevator pitch.
 
@@ -29,7 +31,7 @@ In this lesson, we will be focusing on introducing yourself to someone you've ne
 
 A good elevator pitch effectively communicates the following:
 - Mission
-- USP
+- Unique Selling Point (USP)
 - Open-ended question
 
 #### Mission
@@ -52,8 +54,8 @@ _Example_: What kind of programs do you feel are important for student developme
 Here's how I would deliver my elevator pitch.
 
 ### Converting your elevator pitch to an resumé objective
-
+- Don't be scared to copy/paste elevator pitch to your resumé
 
 
  ### Homework Assignment
-Formulate/practice your elevator pitch until you know it by heart. If your resumé has an objective section, convert your elevator pitch to an objective and add it to your resumé.
+Formulate/practice your elevator pitch until you know it by heart. If your resumé has an objective section, convert your elevator pitch to an objective and add it to your resumé. You may be called on to deliver your elevator pitch in class next lesson.
