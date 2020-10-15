@@ -12,67 +12,10 @@ This is a repository containing course information for Life in Tech. Kofi Forson
 ### Description
 A course designed to get students prepared to conquer the job market.
 
+### Why?
+According to CNN, students are currently entering [the worst job market since the Great Depression](https://www.cnn.com/2020/05/20/us/bad-job-market-graduates-coronavirus/index.html) due to the pandemic. We have recently successfully navigated the tech job market to land various positions (Software Engineer, Test Engineer, Program Manager) in the following companies: Apple, Microsoft and IBM. 
 
-### Technical 
- - Search/Sort
-    - Binary Search
-    - Merge Sort
- - Data Structures
-    - Linked Lists
-    - Stack 
-    - Queue
-    - Heaps
-    - Trees
-    - Hashmap
-    - Graphs
- - Big-O
- - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
-    - time yourself (45 minutes/problem)
-    - break problem down
-    - clear ambiguity
- - Recursion
- - Dynamic Programming
- - Clean Code 
- - Backtracking
- - Programming Language Documentation
- - Testing/Code Coverage
- - Threads & Locks
- - Object-Oriented Design
- - [System Design and Scalability](https://github.com/donnemartin/system-design-primer) (if curriculum allows)
-  - Bit Manipulation (if curriculum allows)
-
-
-### Non-Technical
- - Resume
- - Elevator pitch
- - Cold contacts
-    - Recruiters
- - How to apply
- - Navigating a conference 
- - Who are you?
- - Leveraging LinkedIn
-    - Searching by content
- - Framing answers/Storytelling
- - How to prepare for an interview
- - Interviewing your interviewer
- - Negotiating offers
- - Understand an offer letter
- - After the interview
- - Researching a Company
-    - Company culture
-
-
- ### Resources
- - Cracking the Coding Interview (include PDF in resources folder)
- - [Explain the Cloud Like I'm 10](https://www.amazon.com/Explain-Cloud-Like-Im-10/dp/0979707110/ref=sr_1_2?crid=3O9YEUVIEQEZS&dchild=1&keywords=explain+the+cloud+like+i%27m+10&qid=1596194608&sprefix=explain+the+cloud%2Caps%2C171&sr=8-2)
- - [Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417)
- - [Swipe to Unlock](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy/dp/1976182190/ref=sr_1_3?dchild=1&keywords=swipe+to+unlock&qid=1596504273&s=books&sr=1-3)
- - [Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
- - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?crid=M05H9T5QM4R9&dchild=1&keywords=introduction+to+algorithms&qid=1596504208&s=books&sprefix=introduction+to+%2Cstripbooks%2C263&sr=1-2)
- - [LeetCode](www.leetcode.com): coding challenges and interview experience forums
- - [Interview Cake](www.interviewcake.com): data structures and algorithms interview prep
- - [Pramp](www.pramp.com): peer to peer interview platform
-
+Life in Tech is a collection of all the information we wish we knew when we first entered the market. It's a 16-week curriculum split into two sections: technical and non-technical. The technical section is meant to teach students how to ace technical interviews and the non-technical section is meant to teach students the skills needed to build their professional network and land job interviews.
 
 ### Deep Dive: Technical
  - Week 1: Intro
@@ -246,8 +189,32 @@ A course designed to get students prepared to conquer the job market.
    - Example: Research NSBE conference and its career fair documentation
  - Week 12-15: Guest Speaker
 
-   
+ ### Resources
+ #### Books
+ - Cracking the Coding Interview (include PDF in resources folder)
+ - [Explain the Cloud Like I'm 10](https://www.amazon.com/Explain-Cloud-Like-Im-10/dp/0979707110/ref=sr_1_2?crid=3O9YEUVIEQEZS&dchild=1&keywords=explain+the+cloud+like+i%27m+10&qid=1596194608&sprefix=explain+the+cloud%2Caps%2C171&sr=8-2)
+ - [Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417)
+ - [Swipe to Unlock](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy/dp/1976182190/ref=sr_1_3?dchild=1&keywords=swipe+to+unlock&qid=1596504273&s=books&sr=1-3)
+ - [Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+ - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?crid=M05H9T5QM4R9&dchild=1&keywords=introduction+to+algorithms&qid=1596504208&s=books&sprefix=introduction+to+%2Cstripbooks%2C263&sr=1-2)
 
+ #### Websites
+ - [LeetCode](www.leetcode.com): coding challenges and interview experience forums
+ - [Interview Cake](www.interviewcake.com): data structures and algorithms interview prep
+ - [Pramp](www.pramp.com): peer to peer interview platform
+ - [levels.fyi](https://www.levels.fyi/): verified compensation data from employees at Big Tech companies
+
+ #### Articles
+ - [System Design and Scalability](https://github.com/donnemartin/system-design-primer)
+ - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
+ - [Search](https://www.geeksforgeeks.org/searching-algorithms/)/[Sort](https://www.geeksforgeeks.org/sorting-algorithms/)
+ - [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+ - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+ - [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+ - [Negotiating an offer](https://candor.co/guides/salary-negotiation)
+
+ #### Videos
+ - [Test plans](https://www.youtube.com/watch?v=QEu3wmgTLqo&t=4s)
 
    
      
