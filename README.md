@@ -190,6 +190,11 @@ Life in Tech is a collection of all the information we wish we knew when we firs
  - Week 12-15: Guest Speaker
 
  ### Resources
+
+ #### Repos
+ - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+ - [System Design and Scalability](https://github.com/donnemartin/system-design-primer)
+
  #### Books
  - Cracking the Coding Interview (include PDF in resources folder)
  - [Explain the Cloud Like I'm 10](https://www.amazon.com/Explain-Cloud-Like-Im-10/dp/0979707110/ref=sr_1_2?crid=3O9YEUVIEQEZS&dchild=1&keywords=explain+the+cloud+like+i%27m+10&qid=1596194608&sprefix=explain+the+cloud%2Caps%2C171&sr=8-2)
@@ -205,7 +210,6 @@ Life in Tech is a collection of all the information we wish we knew when we firs
  - [levels.fyi](https://www.levels.fyi/): verified compensation data from employees at Big Tech companies
 
  #### Articles
- - [System Design and Scalability](https://github.com/donnemartin/system-design-primer)
  - [Problem Solving Approach](https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles)
  - [Search](https://www.geeksforgeeks.org/searching-algorithms/)/[Sort](https://www.geeksforgeeks.org/sorting-algorithms/)
  - [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
