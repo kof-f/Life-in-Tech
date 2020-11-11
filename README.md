@@ -13,7 +13,7 @@ This is a repository containing course information for Life in Tech. Kofi Forson
 A course designed to get students prepared to conquer the job market.
 
 ### Why?
-According to CNN, students are currently entering [the worst job market since the Great Depression](https://www.cnn.com/2020/05/20/us/bad-job-market-graduates-coronavirus/index.html) due to the pandemic. We have recently successfully navigated the tech job market to land various positions (Software Engineer, Test Engineer, Program Manager) in the following companies: Apple, Microsoft and IBM. 
+According to CNN, students are currently entering [the worst job market since the Great Depression](https://www.cnn.com/2020/05/20/us/bad-job-market-graduates-coronavirus/index.html) due to the pandemic. We have recently successfully navigated the tech job market to land various positions (Software Engineer, Program Manager and Test Engineer) in the following companies: Apple, Microsoft and IBM. 
 
 Life in Tech is a collection of all the information we wish we knew when we first entered the market. It's a 16-week curriculum split into two sections: technical and non-technical. The technical section is meant to teach students how to ace technical interviews and the non-technical section is meant to teach students the skills needed to build their professional network and land job interviews.
 
